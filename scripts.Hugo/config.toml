@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = " tbq.jjj123.com 秦偉平 "
+title = " qwp.jjj123.com 秦偉平 "
 theme = "hugo-theme-docdock"
 #themesdir = "../.."
 themesdir = "./themes"
