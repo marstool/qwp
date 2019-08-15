@@ -31,6 +31,18 @@
   </url>
   
   <url>
+    <loc>/qwp201904/</loc>
+  </url>
+  
+  <url>
+    <loc>/qwp201907/</loc>
+  </url>
+  
+  <url>
+    <loc>/qwp201909/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
